@@ -1,8 +1,8 @@
 body {
     background-image: url("imagen/cuc.jpg"); 
-    background-size: contain; 
+    background-size: 150px; /* Ajusta el tamaño */
     background-repeat: no-repeat;
-    background-position: top center;
+    background-position: top right; /* Imagen arriba a la derecha */
     
     font-family: Arial, sans-serif;
     display: flex;
@@ -13,12 +13,18 @@ body {
 }
 
 .contenedor {
-        text-align: center;
-        background: white;
-        padding: 20px;
-        border-radius: 10px;
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        width: 400px; 
+    text-align: center;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 400px;
+}
+
+h1 {
+    font-size: 20px; /* Reduce el tamaño del texto */
+    font-weight: bold;
+    text-align: center;
 }
 
 .calculadora {
@@ -26,14 +32,14 @@ body {
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     padding: 20px;
-    width: 200px; 
+    width: 200px;
 }
 
 .botones {
     background-color: #f1f1f1;
     border: 1px solid #ccc;
-    font-size: 1.5rem;
-    padding: 10px 20px;
+    font-size: 1rem; /* Reduce el tamaño del botón */
+    padding: 10px 15px;
     border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.3s;
