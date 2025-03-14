@@ -1,1 +1,43 @@
-hola
+body{
+    background-image: url('https://images.unsplash.com/photo-1557683316-973673baf926');
+    background-size: 20%;
+    background-position: center;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;       
+}
+
+.calculadora{
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 260px;
+}
+
+.pantalla{
+    background-color: #333;
+    color: white;
+    font-size: 2rem;
+    text-align: right;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.botones{
+    background-color: #f1f1f1;
+    border: 1px solid #ccc;
+    font-size: 1.5rem;
+    padding: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.boton:hover {
+    background-color: #ddd;
+}
