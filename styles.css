@@ -1,8 +1,8 @@
 body {
     background-image: url("imagen/cuc.jpg"); 
-    background-size: 150px; 
+    background-size: contain; 
     background-repeat: no-repeat;
-    background-position: right center;
+    background-position: top center;
     
     font-family: Arial, sans-serif;
     display: flex;
@@ -26,14 +26,14 @@ body {
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     padding: 20px;
-    width: 200px; /
+    width: 200px; 
 }
 
 .botones {
     background-color: #f1f1f1;
     border: 1px solid #ccc;
     font-size: 1.5rem;
-    padding: 5cm ;
+    padding: 10px 20px;
     border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.3s;
