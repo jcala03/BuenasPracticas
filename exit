@@ -1,0 +1,27 @@
+*   [33m211c032[m[33m ([m[1;36mHEAD[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m, [m[1;32mEsther[m[33m)[m Resuelvo conflicto de merge con script.js
+[31m|[m[32m\[m  
+[31m|[m * [33mca63118[m[33m ([m[1;31morigin/Esther[m[33m)[m Se borra archivo no necesario
+* [32m|[m [33m61f26f8[m Se eliminan archivos que no eran necesarios
+* [32m|[m [33m3b59fa3[m Ajustar cambios del contenedor
+* [32m|[m [33m8ec10ac[m ajustar el cambio de la imagen
+* [32m|[m [33mebc085e[m Ajustar diseño: centrar elementos y agregar borde rojo al contenedor
+* [32m|[m [33m4e37116[m Resolver conflicto en index.html y styles.css
+[33m|[m[32m\[m[32m|[m 
+[33m|[m * [33m008b5f2[m Ajustar el contenedor
+[33m|[m * [33m0360405[m Agregar borde en el contenedor
+[33m|[m * [33mb33b001[m centrar los elementos del contenedor
+[33m|[m * [33m8c057a1[m Ajustar imagen y mejoras tel texto
+[33m|[m * [33md9d245a[m Ajustar la imagen
+* [34m|[m [33m66af61b[m Guardando cambios antes de cambiar de rama
+* [34m|[m [33m30577c8[m Finalizando merge y actualizando imagen
+[35m|[m[34m\[m[34m|[m 
+[35m|[m * [33m17ea23c[m Agregar imagen
+* [36m|[m [33mbfa50bb[m Agregar imagen y modificar estilos
+* [36m|[m [33m03d0dd0[m Agregar imagen de fondo y modificr estilos
+* [36m|[m [33mfddd629[m Primer commit: Calculadora con fondo
+[1;31m|[m[36m\[m[36m|[m 
+[1;31m|[m * [33m3b887f5[m Se añade el archivo index.html
+* [1;32m|[m [33ma00f920[m Se programa la logica. Por Jhonny Cala
+[1;32m|[m[1;32m/[m  
+* [33m346e177[m Creacion de archivos por Jhonny Cala
+* [33md70eb23[m Creación de archivos por Jhonny Cala
