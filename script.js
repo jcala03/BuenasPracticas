@@ -13,3 +13,4 @@ function calcularNotaTotal() {
     
     document.getElementById('resultado').innerText = `Tu nota total es: ${notaTotal.toFixed(2)}`;
 }
+//hecho por mi jijijijiijijijijijijjijiiji
